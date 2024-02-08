@@ -4,25 +4,23 @@
 
 ### User requirements
 
-There are three sets of stakeholders: clients, visitors, developers
+There are three sets of stakeholders: clients, visitors and developers.
 
 
-### Client requirements
-
-+ Needs to be proof read (by multiple people if possible)
-
-+ Needs to make the company look appealing to an audience.
+#### Client requirements
++ Needs to appeal to an audience.
 
 + Website needs to atleast look like it sells phones, accessories and similar services.
 
 + Website needs to contain the company name (ICUPhones).
 
++ Needs to have links to the other webpages.
 
-### Visitor requirements
++ Needs to contain a way for visitors to contact the company.
 
-+ Needs to be easy to navigate by using menus or tabs.
+#### Visitor requirements
 
-+ Needs to be able to load quickly not having too many things on 1 page.
++ Needs to be easy to navigate (Can be done using menus, tabs, easily seen buttons, ect)
 
 + Needs to be intresting with a colourful design that remains consistance though all pages.
 
@@ -30,22 +28,18 @@ There are three sets of stakeholders: clients, visitors, developers
 
 + Needs to contain intresting multimedia.
 
-+ Traveling though webpages needs to be seemless or atleast very close to seemless.
++ Needs to contain multiple phones.
 
-### Developers requirements
++ Needs to contain specifications of the phones.
 
-+ Source code needs to be readable, use indents to seperate bits of code and use comments to show what each bit of code is for.
++ Needs to contain a way for visitors to contact the company.
 
-+ Note down all documentation in a seperate markdown file.
+#### Developers requirements
 
-+ Name folders in a way that will make sense to other people and sort them correctly so that they are not in random places that dont make sense.
++ Code needs to be readable, use indents to seperate bits of code and use comments to show what each bit of code is for.
 
 + Make sure that the website works on moblie as well as desktop (moblie before desktop).
 
-+ Make sure that the website contains interactive components and these components actually do something.
-
-+ The website needs to have a minimum of 8 pages that all work (these can be integrated into the same webpage).
-
-+ Needs to have a minimum of atleast 1 table on the website.
-
 + Needs to have atleast 2 designs with diffrent colours, fonts and layouts.
+
++ Test plans with results.
