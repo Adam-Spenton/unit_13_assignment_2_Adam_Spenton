@@ -11,13 +11,11 @@ There are three sets of stakeholders: clients, visitors, developers
 
 + Needs to be proof read (by multiple people if possible)
 
-+ Needs to make the company not look bad.[^1]
++ Needs to make the company look appealing to an audience.
 
 + Website needs to atleast look like it sells phones, accessories and similar services.
 
 + Website needs to contain the company name (ICUPhones).
-
-+ 
 
 
 ### Visitor requirements
@@ -50,5 +48,4 @@ There are three sets of stakeholders: clients, visitors, developers
 
 + Needs to have a minimum of atleast 1 table on the website.
 
-
-[^1]: Change to make possible.
++ Needs to have atleast 2 designs with diffrent colours, fonts and layouts.
