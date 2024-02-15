@@ -74,7 +74,7 @@ Each of the 8 pages have to fill a role.
 
 ### Wireframes
 #### Design A
-
+Wireframe design A has been made to look like a shopping website in terms of layout and planned page functions. Some additions could be made to make user navigation easier such as adding a drop down menu in the navbar that shows all catagorys but it would work.
 #### Design B
 
 ### Colour scheme
