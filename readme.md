@@ -60,7 +60,7 @@ Each of the 8 pages have to fill a role.
 
 2. "Contact us" page. This will allow visitors to contact the company. It needs to contain an email, phone number and a form that can be filled out by a visitor. The "Contact us" page needs to be accessable through the navbar.
 
-3. Catagory pages. This will be 3 or more pages that can be accessed through a link or button near the carosels on the home page. It should contain several phones possibly on a card so a picture can be included.
+3. Category pages. This will be 3 or more pages that can be accessed through a link or button near the carosels on the home page. It should contain several phones possibly on a card so a picture can be included.
 
 4. Login / Sign up page. This will be a page where a visitor can either log into an account or create a new one. This will probably be a form with the following: place to enter username, place to enter password, place to confirm password, place to enter email, place to tick wheather the visitor wants to receive emails about offers and things like that. The Login / Sign up page needs to be accessable through the navbar.
 
