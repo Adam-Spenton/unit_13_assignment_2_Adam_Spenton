@@ -70,10 +70,9 @@ Each of the 8 pages have to fill a role.
 
 7. Check-out page. This will be accessable though the basket page via some kind of button that says "Checkout" or something similar. It should contain some kind of form that the visitor has to fill out before they can purchase that will ask for payment information and adress. It should also contain the price of all the items in the basket.
 
-8. Accessability page. This will contain the accessability settings for the website which will include: dark mode, bigger buttons, colour blind mode and other similar options. The accessability page should be accessable through the navbar.
+8. Forgot my username / password page. This will be accessable through the Login / Sign up page next to the login button. It will ask the user to enter their email and then it would send an email to that email containing their username and password.
 
 ### Wireframes
-
 #### Design A
 
 #### Design B
