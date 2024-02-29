@@ -76,19 +76,19 @@ Each of the 8 pages have to fill a role.
 #### Design A
 Wireframe design A has been made to look like a shopping website in terms of layout and planned page functions. Some additions could be made to make user navigation easier such as adding a drop down menu in the navbar that shows all catagorys but it would work.
 #### Design B
-
+Wireframe design B has some diffrent design choices when compaired to design A such as instead of just a few items on the homepage its instead a carousel to make the website more interactive.
 ### Colour scheme
-
+I thinking that the colour scheme will consist of 3 colours that complement each other, one being for the background one for the navbar and the last for any interactive features to make them stand out from the background.
 #### Design A
-
+052F5F , 005377 , 06A77D   dark blue to blue to blueish green
 #### Design B
-
+BBBDF6 , 9893DA , 797A9E   lilac to light purple to greyish purple
 ### Typography
 
 #### Design A
-
+Exo 2
 #### Design B
-
+Oxygen  
 ## Client feedback / Choice of design
 
 ### Justification

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T12:03:41.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="vRTbi56CuCZWodBFAhGT" version="23.1.4" type="onedrive" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-02-27T15:10:47.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="OiailQGlE58gHg2izu4r" version="23.1.7" type="onedrive" pages="8">
   <diagram name="Home page" id="zt25JcFaLjdhWgld8VqI">
     <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="-94" y="-262" width="616" height="746" as="geometry" />
         </mxCell>
         <mxCell id="d32x63MjvHoc11s_lcRO-2" value="Home page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-94" y="-309" width="60" height="30" as="geometry" />
+          <mxGeometry x="-72" y="-309" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d32x63MjvHoc11s_lcRO-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-94" y="-262" width="616" height="60" as="geometry" />
@@ -92,7 +92,13 @@
           <mxGeometry x="100" y="174" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d32x63MjvHoc11s_lcRO-34" value="all of these are links" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="325" y="-297" width="164" height="30" as="geometry" />
+          <mxGeometry x="311" y="-312" width="164" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIH8kqcib9oKoeWaXA0X-1" value="On moblie this would be a drop down navbar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="533" y="-242" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIH8kqcib9oKoeWaXA0X-2" value="Less of these on smaller devices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="536" y="-101" width="59" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -259,6 +265,9 @@
         </mxCell>
         <mxCell id="qNbQul-dFzZ_JnN7R4oM-42" value="Scroll down to find more (footer will be at the end of the page not at the bottom of the screen)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="93.75" y="608" width="215" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="n9BA55_rLFzUqG-_gnNx-1" value="Can be limited down to just 1 per row on smaller devices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="516" y="84" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -431,6 +440,9 @@
         </mxCell>
         <mxCell id="2MD2ARYdmOMC5v6o1aYN-1" value="Add to basket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="288" y="227" width="77" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="wSMiBKr04g9Jr3KjCeLQ-1" value="Maybe video of phone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-184" y="72" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -605,7 +617,7 @@
           <mxGeometry x="-46" y="506" width="532" height="84" as="geometry" />
         </mxCell>
         <mxCell id="isDMUwWMky2nkEhgM8pl-6" value="Total cost is: £??.??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="-7" width="156" height="30" as="geometry" />
+          <mxGeometry x="-20" y="-7" width="156" height="30" as="geometry" />
         </mxCell>
         <mxCell id="isDMUwWMky2nkEhgM8pl-7" value="A list of ways to pay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="43" width="311" height="448" as="geometry" />
