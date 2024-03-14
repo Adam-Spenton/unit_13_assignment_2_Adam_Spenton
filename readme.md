@@ -84,7 +84,7 @@ I thinking that the colour scheme will consist of 3 colours that complement each
 #### Design B
 BBBDF6 , 9893DA , 797A9E   lilac to light purple to greyish purple
 ### Typography
-
+I want the fonts to be readable to the majority of people
 #### Design A
 Exo 2
 #### Design B
@@ -92,7 +92,9 @@ Oxygen
 ## Client feedback / Choice of design
 
 ### Justification
-
+Wireframes: I chose design B as it has many more interactive features that make it more interesting to visitors rather than a long piece on each webpage.
+Colour scheme: I chose design A because the colour blue is often connected to being calm and the colours are diffrent enough to easily be seperatable so the visitors can see tell interactive features apart from just the background.
+Typography: I chose design A as it is readable and its easy to tell what letter is what but it also brings a sort of tech like feeling that would fit into a website designed around selling tech.
 ### Test plan
 
 ## Build
