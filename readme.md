@@ -95,10 +95,123 @@ Oxygen
 Wireframes: I chose design B as it has many more interactive features that make it more interesting to visitors rather than a long piece on each webpage.
 Colour scheme: I chose design A because the colour blue is often connected to being calm and the colours are diffrent enough to easily be seperatable so the visitors can see tell interactive features apart from just the background.
 Typography: I chose design A as it is readable and its easy to tell what letter is what but it also brings a sort of tech like feeling that would fit into a website designed around selling tech.
-### Test plan
 
-## Build
+# Asset list
 
-## Test
+File name: AMONIDA F10_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
 
-## Evaluate
+File name: Cuifati 2G_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Emporia Telme MD212_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: i15Pro_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Motorola moto edge 40_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Motorola moto edge neo 40_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Motorola Razr 40_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Nokia 105 (4th edition)_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Nokia 105 (2017)_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Nokia 1112_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Samsung E1170_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Samsung galaxy A14_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Samsung galaxy A23_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Samsung galaxy A34_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Samsung galaxy A54_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Samsung galaxy S24 ultra_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: Samsung galaxy S24_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: SOYES S10P_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: TTfone TT150_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: TTfone TT160_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: UMIDIGI A11_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: UMIDIGI Bison X10_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+File name: UMIDIGI Power 5S_Amazon.PNG
+From: Amazon website.
+Use in website: To show a visitor on the website what a phone will look like.
+Needed changes: Size ajustment when needed.
+
+Larger and smaller versions of images will be saved as the same name but with (S) or (L) at the start like this
+ (L)AMONIDA F10_Amazon.PNG
