@@ -206,3 +206,6 @@ File name: UMIDIGI Power 5S_Amazon.PNG
 Use in website: To put in the picture area of the specific webpage.
 Adjustments needed: Resize when needed.
 Originally from: Amazon.com
+
+# Changes to design
+ - Removed the footer from all webpages due to the fact it will not provide much information that cant already be found on the "contact us" webpage.
