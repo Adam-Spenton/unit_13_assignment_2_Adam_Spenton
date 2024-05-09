@@ -1,0 +1,22 @@
+.Dark_blue {
+    background-color: #052F5F;
+    border-color: #052F5F;
+}
+
+.Blue {
+    background-color: #005377;
+    border-color: #005377;
+}
+
+.Green_blue {
+    background-color: #06A77D;
+    border-color: #06A77D;
+}
+
+.Resize {
+    width:500px;
+}
+
+.Fixed_height {
+    height:600px;
+}
