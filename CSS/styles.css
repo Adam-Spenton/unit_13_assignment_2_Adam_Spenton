@@ -20,3 +20,8 @@
 .Fixed_height {
     height:600px;
 }
+
+.White {
+    background-color:white;
+    border-color:white;
+}
