@@ -95,3 +95,32 @@ Same as the basket page, I dont know how to change webpages based of inputs from
 
 ### Changed small text on the forget password page
 Made small changes to the small amount of the text on the forgot you password page to make it more readable to the user.
+
+## Charles' feedback
+Pro
+Nice automatic slideshow.
+Page seems pretty responsive, the nav bar turns into a burger menu when the width hits a certain amount.
+The images move below each other for responsiveness.
+I like the reviews under the products.
+
+
+Negative
+The green bar at the top doesn't feel like it blends in nicely with the blue body of the page.
+There isn't a submit button.
+The information next to a product that contains the cost etc... is a bit off centre when in normal PC view.
+
+### Response
+The navbar is meant to stand out from the body by being an diffrent colour, a diffrent colour could be used so that it can be similar to the body but it can't be the same colour.
+
+There is a submit button but due to a small error on my part it wasn't there, this is now fixed.
+
+The table of info can be more centre with the image so that the website looks better.
+
+## Other issues
+- Images have a white background that could be removed.
+
+- On some webpages images have a white box behind them which when on smaller devices will show up in a diffrent position to the image.
+
+- Some cards do not evenly go together with some being slightly bigger than the others.
+
+- On some of the catagory pages cards are connected together that shouldn't be.
