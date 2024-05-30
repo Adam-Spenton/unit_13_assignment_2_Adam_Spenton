@@ -2,7 +2,7 @@
 + Needs to appeal to an audience.
 It appeals to people that want to buy phones and accessories for their phones.
 
-+ Website needs to atleast look like it sells phones, accessories and similar services.
++ Website needs to at least look like it sells phones, accessories and similar services.
 The website looks like it sells these things with buttons that say buy and a basket page and checkout page
 
 + Website needs to contain the company name (ICUPhones).
@@ -15,30 +15,30 @@ Website contains links to the other webpages in the navbar and on specific webpa
 There is an webpage just for contacting the webpage called "contact us" which contains a form that can be filled out along with alternative ways like the phone number and email
 
 + Needs to be easy to navigate.
-There is a navbar which is easy to navigate through along with easy to see buttons that navigate through the webpages aswell.
+There is a navbar which is easy to navigate through along with easy to see buttons that navigate through the webpages as well.
 
-+ Needs to be intresting with a colourful design that remains consistant though all pages.
++ Needs to be interesting with a colourful design that remains consistent though all pages.
 Every webpage has been colour the same in the same colourful design
 
 + Needs to make sure that simple things like images work on all devices.
 Everything on the website works on phones and it can be argued that it works better on phone.
 
-+ Needs to contain intresting multimedia.
++ Needs to contain interesting multimedia.
 There are links to amazon webpages and a video on one of the phone websites.
 
 + Needs to contain multiple phones.
-There are diffrent 23 phones in total on the website.
+There are different 23 phones in total on the website.
 
 + Needs to contain specifications of the phone
 There is a table of the specifications on all of the phone pages containing the specifications I could find for the phone.
 
-+ Code needs to be readable, use indents to seperate bits of code and use comments to show what each bit of code is for.
-I think that i have covered this, code is generally seperated and comments seperate parts.
++ Code needs to be readable, use indents to separate bits of code and use comments to show what each bit of code is for.
+I think that i have covered this, code is generally separated and comments separate parts.
 
-+ Make sure that the website works on moblie as well as desktop.
++ Make sure that the website works on mobile as well as desktop.
 Works on both
 
-+ Needs to have atleast 2 designs with diffrent colours, fonts and layouts.
++ Needs to have at least 2 designs with different colours, fonts and layouts.
 All alternative designs are in Task 2
 
 + Test plan with results.
@@ -51,20 +51,20 @@ The website meets the purpose of being a website that can sell phones and phone 
 
 ## Changes from wireframe
 
-### Removed carocel from home page
-I removed one of the carocels from the homepage and combined what they would of shown into 1 carocel. This is because the second carocel would never move and all imputs made to it would instead go to the first carocel, this was because I didn't seperate the carocel with a < br > but realised too late in development to add back.
+### Removed carousel from home page
+I removed one of the carousels from the homepage and combined what they would of shown into 1 carousel. This is because the second carousel would never move and all inputs made to it would instead go to the first carousel, this was because I didn't separate the carousel with a < br > but realized too late in development to add back.
 
 ### Removed footer from every page
-I removed the footer from every page. It was planned to be on every page and would contain some simple information like a phone number or an email. It was removed because I didnt see it nesesary as the contact us page contained that same information.
+I removed the footer from every page. It was planned to be on every page and would contain some simple information like a phone number or an email. It was removed because I didn't see it necessary as the contact us page contained that same information.
 
 ### Removed short descriptions from cards
 I removed the short descriptions as users could click to go to the phone or phone accessory website and see the same information that was on the card which would make it mostly useless.
 
 ### Added extra text to the home page
-I added a small bit of extra text to the home page that shows the user that there is a carocel and how it works. This is so users wouldn't overlook the carocel.
+I added a small bit of extra text to the home page that shows the user that there is a carousel and how it works. This is so users wouldn't overlook the carousel.
 
-### Seperated the navbar catagories into 2 dropdowns.
-I seperated the catagories dropdown into 2 dropdowns that have been seperated into phone catagories and accessory catagories. This is to improve the user experience by allowing to choose if they want phone catagories or accessory catagories instead of just showing all of the catagories.
+### Separated the navbar catagories into 2 dropdowns.
+I separated the catagories dropdown into 2 dropdowns that have been separated into phone catagories and accessory catagories. This is to improve the user experience by allowing to choose if they want phone catagories or accessory catagories instead of just showing all of the catagories.
 
 ### Changed "Other ways to contact us" to "Alternatively.." on the contact us page
 I changed "Other ways to contact us" to "Alternatively.." on the contact us page as its a smaller heading and then allows a small bit of text that explains what the email and phone numbers are for.
@@ -85,13 +85,13 @@ Added a checkbox to the end of the sign up portion of the login/sign up page, th
 Added a small form that functions as a way for users to add comments about a phone or phone accessory with a start rating. This is to improve the user experience.
 
 ### Moved the username and star rating outside of the comment box
-Moved the username and start rating outside of the comment box because I couldnt figure out how to place them in the comment box without breaking everything.
+Moved the username and start rating outside of the comment box because I couldn't figure out how to place them in the comment box without breaking everything.
 
 ### Basket page
-While the basket page is intended to work how it does in the wireframe I dont know how to change webpages based on inputs from other webpages so it can be considered a change from the wireframe.
+While the basket page is intended to work how it does in the wireframe I don't know how to change webpages based on inputs from other webpages so it can be considered a change from the wireframe.
 
 ### Checkout page
-Same as the basket page, I dont know how to change webpages based of inputs from other webpages so it will never look like how it does on the wireframe so it can be considered a change from the wireframe.
+Same as the basket page, I don't know how to change webpages based of inputs from other webpages so it will never look like how it does on the wireframe so it can be considered a change from the wireframe.
 
 ### Changed small text on the forget password page
 Made small changes to the small amount of the text on the forgot you password page to make it more readable to the user.
@@ -110,7 +110,7 @@ There isn't a submit button.
 The information next to a product that contains the cost etc... is a bit off centre when in normal PC view.
 
 ### Response
-The navbar is meant to stand out from the body by being an diffrent colour, a diffrent colour could be used so that it can be similar to the body but it can't be the same colour.
+The navbar is meant to stand out from the body by being an different colour, a different colour could be used so that it can be similar to the body but it can't be the same colour.
 
 There is a submit button but due to a small error on my part it wasn't there, this is now fixed.
 
@@ -119,8 +119,8 @@ The table of info can be more centre with the image so that the website looks be
 ## Other issues
 - Images have a white background that could be removed.
 
-- On some webpages images have a white box behind them which when on smaller devices will show up in a diffrent position to the image.
+- On some webpages images have a white box behind them which when on smaller devices will show up in a different position to the image.
 
 - Some cards do not evenly go together with some being slightly bigger than the others.
 
-- On some of the catagory pages cards are connected together that shouldn't be.
+- On some of the category pages cards are connected together that shouldn't be.
