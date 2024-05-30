@@ -110,17 +110,17 @@ There isn't a submit button.
 The information next to a product that contains the cost etc... is a bit off centre when in normal PC view.
 
 ### Response
-The navbar is meant to stand out from the body by being an different colour, a different colour could be used so that it can be similar to the body but it can't be the same colour.
+The navbar is meant to stand out from the body by being an different colour, a different colour could be used so that it can be similar to the body but it can't be the same colour. This is can be changed by adding the hex colour into CSS and connect it to a class named what the colour is and then adding that class to sections in the HTML.
 
 There is a submit button but due to a small error on my part it wasn't there, this is now fixed.
 
-The table of info can be more centre with the image so that the website looks better.
+The table of info can be more centre with the image so that the website looks better. This can be changed by having the table of info placed into the same container the picture is in and then changing the position from there.
 
 ## Other issues
-- Images have a white background that could be removed.
+- Images have a white background that could be removed. This can be done with a website that removes the background off pictures or by manually editing the pictures to remove the background.
 
-- On some webpages images have a white box behind them which when on smaller devices will show up in a different position to the image.
+- On some webpages images have a white box behind them which when on smaller devices will show up in a different position to the image. This can be removed by removing the container thats behind the picture since it was only added in an attempt to remove the ends of a picture.
 
-- Some cards do not evenly go together with some being slightly bigger than the others.
+- Some cards do not evenly go together with some being slightly bigger than the others. The only way i know how to fix this is by removing some parts of longer names so that they are equal.
 
-- On some of the category pages cards are connected together that shouldn't be.
+- On some of the category pages cards are connected together that shouldn't be. This can be fixed by adding the class that is normally only on the first card of a row to every card, I don't know why this works but it does.
