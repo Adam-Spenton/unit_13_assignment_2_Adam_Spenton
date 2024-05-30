@@ -207,5 +207,609 @@ Use in website: To put in the picture area of the specific webpage.
 Adjustments needed: Resize when needed.
 Originally from: Amazon.com
 
-# Changes to design
- - Removed the footer from all webpages due to the fact it will not provide much information that cant already be found on the "contact us" webpage.
+# Testing
+## Chrome
+
+### Homepage
+- carocel works
+- images loaded
+- navbar works
+
+### Basket page
+- button works
+- navbar works
+
+### Login/sign up page
+- text box works
+- form works
+- link works
+- navbar works
+
+### Forgot username page
+- text box works
+- button works
+- navbar works
+
+### Contact us page
+- form works
+- button works
+- navbar works
+
+### Most popular phones page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Highly rated phones page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Most reviewed phones page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Cheapest phones page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Popular brands phone page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Most popular accessories page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Highly rated  accessories page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Most reviewed accessories page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Cheapest accessories page 
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Popular brands accessories page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Samsung Galaxy A34 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Amonida f10 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### cuifati 2G page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### emporia telme page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### i15pro page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Motorola moto edge 40 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Motorola moto edge neo page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Motorola razr 40 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Nokia 105 (4th edition) page 
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Nokia 105 (2017) page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Nokia 1112 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung e1170 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy A14 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy A23 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy A34 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy A54 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy S24 ultra page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy S24 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Soyes_s1op page
+- image loaded
+- table loaded
+- text box works
+- button works
+
+### ttfone tt150 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### ttfone tt160 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Umidigi A11 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Umidigi bison x10 page
+- video loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Umidigi power 5S page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Bling magnet page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### gritin phone stand
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### newseego phone screen magnifier page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### popsocket popgript page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### pozo phone kick stand page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### selfieshow selfie stick page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### syncwire cell phone ring holder stand page 
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+## Edge
+
+### Homepage
+- carocel works
+- images loaded
+- navbar works
+
+### Basket page
+- button works
+- navbar works
+
+### Login/sign up page
+- text box works
+- form works
+- link works
+- navbar works
+
+### Forgot username page
+- text box works
+- button works
+- navbar works
+
+### Contact us page
+- form works
+- button works
+- navbar works
+
+### Most popular phones page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Highly rated phones page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Most reviewed phones page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Cheapest phones page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Popular brands phone page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Most popular accessories page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Highly rated  accessories page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Most reviewed accessories page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Cheapest accessories page 
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Popular brands accessories page
+- cards work
+- buttons work
+- images loaded
+- navbar works
+
+### Samsung Galaxy A34 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Amonida f10 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### cuifati 2G page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### emporia telme page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### i15pro page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Motorola moto edge 40 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Motorola moto edge neo page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Motorola razr 40 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Nokia 105 (4th edition) page 
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Nokia 105 (2017) page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Nokia 1112 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung e1170 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy A14 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy A23 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy A34 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy A54 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy S24 ultra page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Samsung galaxy S24 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Soyes_s1op page
+- image loaded
+- table loaded
+- text box works
+- button works
+
+### ttfone tt150 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### ttfone tt160 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Umidigi A11 page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Umidigi bison x10 page
+- video loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Umidigi power 5S page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### Bling magnet page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### gritin phone stand
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### newseego phone screen magnifier page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### popsocket popgript page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### pozo phone kick stand page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### selfieshow selfie stick page
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
+
+### syncwire cell phone ring holder stand page 
+- image loaded
+- table loaded
+- text box works
+- button works
+- Comments load
