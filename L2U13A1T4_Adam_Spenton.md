@@ -5,11 +5,11 @@ It appeals to people that want to buy phones and accessories for their phones.
 
 + Website needs to at least look like it sells phones, accessories and similar services.
 <br>
-The website looks like it sells these things with buttons that say buy and a basket page and checkout page
+The website looks like it sells these things with buttons that say buy and a basket page and checkout page.
 
 + Website needs to contain the company name (ICUPhones).
 <br>
-ICUPhones is in the top corner of all webpages on the navbar
+ICUPhones is in the top corner of all webpages on the navbar.
 
 + Needs to have links to the other webpages.
 <br>
@@ -17,7 +17,7 @@ Website contains links to the other webpages in the navbar and on specific webpa
 
 + Needs to contain a way for visitors to contact the company.
 <br>
-There is an webpage just for contacting the webpage called "contact us" which contains a form that can be filled out along with alternative ways like the phone number and email
+There is an webpage just for contacting the webpage called "contact us" which contains a form that can be filled out along with alternative ways like the phone number and email.
 
 + Needs to be easy to navigate.
 <br>
@@ -25,7 +25,7 @@ There is a navbar which is easy to navigate through along with easy to see butto
 
 + Needs to be interesting with a colourful design that remains consistent though all pages.
 <br>
-Every webpage has been colour the same in the same colourful design
+Every webpage has been colour the same in the same colourful design.
 
 + Needs to make sure that simple things like images work on all devices.
 <br>
@@ -49,15 +49,15 @@ I think that i have covered this, code is generally separated and comments separ
 
 + Make sure that the website works on mobile as well as desktop.
 <br>
-Works on both
+Works on both.
 
 + Needs to have at least 2 designs with different colours, fonts and layouts.
 <br>
-All alternative designs are in Task 2
+All alternative designs are in Task 2.
 
 + Test plan with results.
 <br>
-Is in Task 2 markdown
+Is in Task 2 markdown.
 
 
 The website meets the purpose of being a website that can sell phones and phone accessories, this can be seen with the basket page, the checkout page and on each individual phone and phone accessory page because they contain a button that says "buy".
