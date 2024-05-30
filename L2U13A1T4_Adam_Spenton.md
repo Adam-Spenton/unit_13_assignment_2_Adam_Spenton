@@ -57,7 +57,7 @@ All alternative designs are in Task 2
 
 + Test plan with results.
 <br>
-Will be in a task 3 markdown.
+Is in Task 2 markdown
 
 
 The website meets the purpose of being a website that can sell phones and phone accessories, this can be seen with the basket page, the checkout page and on each individual phone and phone accessory page because they contain a button that says "buy".
@@ -149,3 +149,4 @@ The table of info can be more centre with the image so that the website looks be
 # Other things I could improve
 - Functionality between webpages, e.g. when you login to the website it keeps you logged on the website
 - improve placements of images, cards, etc.
+- 
