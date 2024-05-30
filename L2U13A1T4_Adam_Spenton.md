@@ -124,3 +124,7 @@ The table of info can be more centre with the image so that the website looks be
 - Some cards do not evenly go together with some being slightly bigger than the others. The only way i know how to fix this is by removing some parts of longer names so that they are equal.
 
 - On some of the category pages cards are connected together that shouldn't be. This can be fixed by adding the class that is normally only on the first card of a row to every card, I don't know why this works but it does.
+
+## Other things I could improve
+- Functionality between webpages, e.g. when you login to the website it keeps you logged on the website
+- improve placements of images, cards, etc.
