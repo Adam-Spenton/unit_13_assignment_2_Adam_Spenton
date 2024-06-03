@@ -208,7 +208,7 @@ Adjustments needed: Resize when needed.
 Originally from: Amazon.com
 
 # Testing
-## Chrome
+## Chrome (Version 125.0.6422.114)
 
 ### Homepage
 - carousel works
@@ -511,7 +511,7 @@ Originally from: Amazon.com
 - button works
 - Comments load
 
-## Edge
+## Edge Version 125.0.2535.79
 
 ### Homepage
 - carousel works
