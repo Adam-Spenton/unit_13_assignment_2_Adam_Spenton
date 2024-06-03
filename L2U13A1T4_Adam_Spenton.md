@@ -149,4 +149,3 @@ The table of info can be more centre with the image so that the website looks be
 # Other things I could improve
 - Functionality between webpages, e.g. when you login to the website it keeps you logged on the website
 - improve placements of images, cards, etc.
-- 
