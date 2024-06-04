@@ -115,7 +115,7 @@ Made small changes to the small amount of the text on the forgot you password pa
 No changes to the colour were made and they were properly implemented.
 
 ## Changes to font
-No changes to the font were made but they haven't been implemented yet.
+No changes to the font were made and they are now properly implemented.
 
 # Charles' feedback
 Pro
