@@ -89,12 +89,13 @@ I want the fonts to be readable to the majority of people
 Exo 2
 #### Design B
 Oxygen  
-## Client feedback / Choice of design
 
 ### Justification
-Wireframes: I chose design B as it has many more interactive features that make it more interesting to visitors rather than a long piece on each webpage.
-Colour scheme: I chose design A because the colour blue is often connected to being calm and the colours are different enough to easily tell apart so the visitors can see tell interactive features apart from just the background.
-Typography: I chose design A as it is readable and its easy to tell what letter is what but it also brings a sort of tech like feeling that would fit into a website designed around selling tech.
+Wireframes: I chose design B as it has many more interactive features that make it more interesting to visitors rather than a long piece on each webpage. This means that users will spend more time on the website and can lead to the users buying something off the website.
+<br>
+Colour scheme: I chose design A because the colour blue is often connected to being calm and the colours are different enough to easily tell apart so the visitors can see tell interactive features apart from just the background. This is also an interesting and colourful design that will keep visitors interested in the website.
+<br>
+Typography: I chose design A as it is readable and its easy to tell what letter is what but it also brings a sort of tech like feeling that would fit into a website designed around selling tech. This is an interesting design that will keep visitors on the website.
 
 # Asset list
 File name: AMONIDA F10_Amazon.PNG
