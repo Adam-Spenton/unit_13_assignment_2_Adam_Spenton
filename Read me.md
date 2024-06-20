@@ -881,7 +881,6 @@ Is in the task 3 section of this document
 
 The website meets the purpose of being a website that can sell phones and phone accessories, this can be seen with the basket page, the checkout page and on each individual phone and phone accessory page because they contain a button that says "buy".
 
-### Comparison to design
 
 ### Changes from wireframe
 
@@ -942,7 +941,6 @@ Nice automatic slideshow.
 Page seems pretty responsive, the nav bar turns into a burger menu when the width hits a certain amount.
 The images move below each other for responsiveness.
 I like the reviews under the products.
-
 
 Con
 The green bar at the top doesn't feel like it blends in nicely with the blue body of the page.
