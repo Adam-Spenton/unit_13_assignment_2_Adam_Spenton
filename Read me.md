@@ -881,7 +881,7 @@ Is in the task 3 section of this document
 
 The website meets the purpose of being a website that can sell phones and phone accessories, this can be seen with the basket page, the checkout page and on each individual phone and phone accessory page because they contain a button that says "buy".
 
-### Comparison to design
+
 
 ### Changes from wireframe
 
